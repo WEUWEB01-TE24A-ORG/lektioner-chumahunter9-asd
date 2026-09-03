@@ -1,0 +1,14 @@
+body {
+    background-color: brown;
+    background-image: url(./bilder/nir-himi-fjbWSt7y7zs-unsplash.jpg);
+}
+h1 {
+    color: aquamarine;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+}
+p {
+    color: aquamarine;
+    font-size: 2opx;
+}

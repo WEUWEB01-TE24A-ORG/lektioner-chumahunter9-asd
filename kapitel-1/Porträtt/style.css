@@ -1,0 +1,39 @@
+body {
+    background: url(./bilder/bones.avif);
+}
+table {
+    color:ghostwhite;
+margin-left: 10px;
+}
+img {
+    border-radius: 10px;
+    margin-left: 0px;
+}
+h1 {
+    color: goldenrod;
+}
+li {
+    color:bisque;
+    background-color:darkslategray;
+}
+h2 {
+    color: cornflowerblue;
+}
+p {
+    color: cornsilk;
+}
+th {
+    background-color: black;
+}
+td {
+    background-color: black;
+   width: 20px;
+}
+a {
+    size: 50px;
+    background-color: cadetblue;
+    box-shadow: 10px;
+    color: blueviolet;
+    margin-left: 1000px;
+
+}

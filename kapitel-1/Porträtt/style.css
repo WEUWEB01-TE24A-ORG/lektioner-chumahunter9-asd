@@ -1,39 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Imperial+Script&family=Niconne&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     background: url(./bilder/bones.avif);
 }
+
 table {
-    color:ghostwhite;
-margin-left: 10px;
+    color: ghostwhite;
+    margin-left: 10px;
 }
+
 img {
     border-radius: 10px;
-    margin-left: 0px;
+    margin-left: 400px;
 }
+
 h1 {
     color: goldenrod;
+    background-color: cadetblue;
+    width: 300px;
+        margin-left: 400px;
+
 }
+
 li {
-    color:bisque;
-    background-color:darkslategray;
+    color: bisque;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+        margin-left: 0px;
+        width: 400px;
+
 }
+
 h2 {
     color: cornflowerblue;
+        margin-left: 400px;
+
 }
+
+ul {
+    width: 800px;
+    color: bisque;
+        margin-left: 400px;
+
+}
+
 p {
+    width: 600px;
     color: cornsilk;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500px;
+    font-style: normal;
+        margin-left: 400px;
+
 }
+
 th {
     background-color: black;
+        margin-left: 400px;
+
+}
+table {
+        margin-left: 400px;
+
 }
 td {
     background-color: black;
-   width: 20px;
+    width: 20px;
+        margin-left: 400px;
+
+
 }
+
 a {
     size: 50px;
     background-color: cadetblue;
     box-shadow: 10px;
     color: blueviolet;
-    margin-left: 1000px;
+    margin-left: 650px;
 
 }

@@ -71,12 +71,13 @@ td {
 
 
 }
+h3
 
 a {
     size: 50px;
     background-color: cadetblue;
     box-shadow: 10px;
     color: blueviolet;
-    margin-left: 650px;
+    margin-left: 400px;
 
 }

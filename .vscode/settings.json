@@ -30,9 +30,14 @@
     "eliostruyf.vscode-hide-comments": true,
     "angelo-breuer.clock": true,
     "GitHub.copilot": false
+<<<<<<< HEAD
 },
 "editor.tokenColorCustomizations": {
     "comments": "",
     "textMateRules": []
 },
+=======
+  },
+      "chat.disableAIFeatures": true
+>>>>>>> 020b6487dcc3ef5fe193e9aab0c2187643448ed7
 }

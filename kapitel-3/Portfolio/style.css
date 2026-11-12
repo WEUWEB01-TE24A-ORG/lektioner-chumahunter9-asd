@@ -15,18 +15,27 @@ img {
     height: auto;
 }
 
-
-/* sidan */
-.kontainer{
-    background-color:#6f1d1b;
+/* kontainer */
+body{ 
+    background-image: url(./bilder/siva-adimulam-J7ixfh1hylg-unsplash.jpg);
 
 }
-h1{
+h1{}
+.kontainer{
+background-color: #ffe6a7;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+}
+/* kolumn */
+.kolumn{
+}
+.box{
+    width: 350px;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
     
 }
-body{}
-
-/* box */
-.box{}
-img{}
-p{}
+img{ width: 200px;
+}
